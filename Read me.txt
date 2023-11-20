@@ -1,0 +1,43 @@
+1-> Sum of all element can be solved by recursion method
+2-> Search element in linklist also solve by recursion
+
+
+Easy Questions->
+1  -  Reverse a Linked List.
+2  -  Find the Middle of a Linked List.
+3  -  Detect a Cycle in a Linked List.
+4  -  Merge Two Sorted Linked Lists.
+5  -  Remove Duplicates from a Sorted Linked List.
+6  -  Implement a Stack using a Linked List.
+7  -  Remove Nth Node from the End of a Linked List.
+8  -  Swap Nodes in Pairs.
+9  -  Add Two Numbers Represented by Linked Lists.
+10 -  Check if a Linked List is Palindrome.
+
+
+Medium Linked List Questions:->
+1  -  Intersection Point in Y Shaped Linked Lists.
+2  -  Clone a Linked List with Random Pointers.
+3  -  Flatten a Multilevel Doubly Linked List.
+4  -  Reorder Linked List (L1->Ln->L2->Ln-1->L3->Ln-2->...).
+5  -  Implement LRU Cache using a Linked List.
+6  -  Reverse Nodes in k-Group.
+7  -  Partition a Linked List around a given value.
+8  -  Add Two Large Numbers Represented by Linked Lists.
+9  -  Sort a Linked List using Merge Sort.
+10 -  Rotate a Linked List by K positions.
+
+
+
+
+Hard Linked List Questions:->
+1  -  Convert Binary Search Tree to Sorted Doubly Linked List.
+2  -  Implement a Skip List.
+3  -  Detect a Cycle in a Directed Graph (Linked List Representation).
+4  -  Serialize and Deserialize a Binary Tree to/from a Linked List.
+5  -  Merge K Sorted Linked Lists.
+6  -  Design and Implement a Linked List that supports O(1) operations (Insertion, Deletion, Search).
+7  -  Copy Linked List with Arbitrary Pointer (without using extra space).
+8  -  Reverse a Linked List in Groups of Given Size.
+9  -  Design a Special Stack Data Structure using Linked Lists.
+10 -  Implement an Iterator for a Linked List with Next() and HasNext() operations.
